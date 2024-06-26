@@ -1,5 +1,8 @@
 # 📌 Capstone
 
+## 소개
+MBTI와 키워드를 통해 원하는 교내 친구를 만날 수 있는 매칭 어플리케이션
+
 ## 👨‍👩‍👧‍👦 팀
 
 |이름 | [권기범](https://github.com/KibeomGwon)| [성준영](https://github.com/sungjungyoung) | [추동우](https://github.com/DongWooChoo) | [이상현](https://github.com/idealHyun) |
