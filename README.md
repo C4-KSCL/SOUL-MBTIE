@@ -51,20 +51,20 @@
 ### 매칭 페이지
 |매칭|매칭 분석|요청 성공|이상형 설정|
 | :-: | :-: | :-: | :-: |
-|<img src="" />|<img src="" />|<img src="" />|<img src="" />|
+|<img src="https://github.com/C4-KSCL/SOUL-MBTIE/blob/main/assets/%EB%A7%A4%EC%B9%AD%ED%8E%98%EC%9D%B4%EC%A7%80/%EB%A7%A4%EC%B9%AD%20%ED%8E%98%EC%9D%B4%EC%A7%80.jpg" />|<img src="https://github.com/C4-KSCL/SOUL-MBTIE/blob/main/assets/%EB%A7%A4%EC%B9%AD%ED%8E%98%EC%9D%B4%EC%A7%80/%EB%A7%A4%EC%B9%AD%20%EB%B6%84%EC%84%9D%20%ED%8E%98%EC%9D%B4%EC%A7%80.jpg" />|<img src="https://github.com/C4-KSCL/SOUL-MBTIE/blob/main/assets/%EB%A7%A4%EC%B9%AD%ED%8E%98%EC%9D%B4%EC%A7%80/%EC%9A%94%EC%B2%AD%20%EC%84%B1%EA%B3%B5%20%ED%8E%98%EC%9D%B4%EC%A7%80.jpg" />|<img src="https://github.com/C4-KSCL/SOUL-MBTIE/blob/main/assets/%EB%A7%A4%EC%B9%AD%ED%8E%98%EC%9D%B4%EC%A7%80/%EC%9D%B4%EC%83%81%ED%98%95%20%EC%84%A4%EC%A0%95%20%ED%8E%98%EC%9D%B4%EC%A7%80.jpg" />|
 
-|친구 키워드 설정|재매창|||
+|친구 키워드 설정|재매|||
 | :-: | :-: | :-: | :-: |
-|<img src="" />|<img src="" />|||
+|<img src="https://github.com/C4-KSCL/SOUL-MBTIE/blob/main/assets/%EB%A7%A4%EC%B9%AD%ED%8E%98%EC%9D%B4%EC%A7%80/%EC%B9%9C%EA%B5%AC%20%ED%82%A4%EC%9B%8C%EB%93%9C%20%EC%9E%AC%EC%84%A4%EC%A0%95%20%ED%8E%98%EC%9D%B4%EC%A7%80.jpg" />|<img src="https://github.com/C4-KSCL/SOUL-MBTIE/blob/main/assets/%EB%A7%A4%EC%B9%AD%ED%8E%98%EC%9D%B4%EC%A7%80/%EC%9E%AC%EB%A7%A4%EC%B9%AD%20%ED%8E%98%EC%9D%B4%EC%A7%80.jpg" />|||
 
 ### 친구 페이지
-|친구 리스트|친구 프로필필|받은 요청 1|받은 요청 2|
+|친구 리스트|친구 프로필|받은 요청 1|받은 요청 2|
 | :-: | :-: | :-: | :-: |
-|<img src="" />|<img src="" />|<img src="" />|<img src="" />|
+|<img src="https://github.com/C4-KSCL/SOUL-MBTIE/blob/main/assets/%EC%B9%9C%EA%B5%AC%ED%8E%98%EC%9D%B4%EC%A7%80/%EC%B9%9C%EA%B5%AC%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%ED%8E%98%EC%9D%B4%EC%A7%80.jpg" />|<img src="https://github.com/C4-KSCL/SOUL-MBTIE/blob/main/assets/%EC%B9%9C%EA%B5%AC%ED%8E%98%EC%9D%B4%EC%A7%80/%EC%B9%9C%EA%B5%AC%20%ED%94%84%EB%A1%9C%ED%95%84%20%ED%8E%98%EC%9D%B4%EC%A7%80.jpg" />|<img src="https://github.com/C4-KSCL/SOUL-MBTIE/blob/main/assets/%EC%B9%9C%EA%B5%AC%ED%8E%98%EC%9D%B4%EC%A7%80/%EB%B0%9B%EC%9D%80%20%EC%9A%94%EC%B2%AD%20%ED%8E%98%EC%9D%B4%EC%A7%80.jpg" />|<img src="https://github.com/C4-KSCL/SOUL-MBTIE/blob/main/assets/%EC%B9%9C%EA%B5%AC%ED%8E%98%EC%9D%B4%EC%A7%80/%EB%B0%9B%EC%9D%80%20%EC%9A%94%EC%B2%AD%20%ED%8E%98%EC%9D%B4%EC%A7%802.jpg" />|
 
 |보낸 요청|친구 차단|친구 관리||
 | :-: | :-: | :-: | :-: |
-|<img src="" />|<img src="" />|<img src="" />||
+|<img src="https://github.com/C4-KSCL/SOUL-MBTIE/blob/main/assets/%EC%B9%9C%EA%B5%AC%ED%8E%98%EC%9D%B4%EC%A7%80/%EC%B9%9C%EA%B5%AC%20%EB%B3%B4%EB%82%B8%20%EC%9A%94%EC%B2%AD%20%ED%8E%98%EC%9D%B4%EC%A7%80.jpg" />|<img src="https://github.com/C4-KSCL/SOUL-MBTIE/blob/main/assets/%EC%B9%9C%EA%B5%AC%ED%8E%98%EC%9D%B4%EC%A7%80/%EC%B9%9C%EA%B5%AC%20%EC%B0%A8%EB%8B%A8%20%ED%8E%98%EC%9D%B4%EC%A7%80.jpg" />|<img src="https://github.com/C4-KSCL/SOUL-MBTIE/blob/main/assets/%EC%B9%9C%EA%B5%AC%ED%8E%98%EC%9D%B4%EC%A7%80/%EC%B9%9C%EA%B5%AC%20%EA%B4%80%EB%A6%AC%20%ED%8E%98%EC%9D%B4%EC%A7%80.jpg" />||
 
 ### 채팅 페이지
 |채팅창 리스트|채팅창|이벤트|이벤트 전송|
