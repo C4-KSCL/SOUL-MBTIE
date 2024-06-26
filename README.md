@@ -1,6 +1,6 @@
-# Capstone
+# 📌 Capstone
 
-## 팀
+## 👨‍👩‍👧‍👦 팀
 
 |이름 | [권기범](https://github.com/KibeomGwon)| [성준영](https://github.com/sungjungyoung) | [추동우](https://github.com/DongWooChoo) | [이상현](https://github.com/idealHyun) |
 | :-: | :-: | :-: | :-: | :-: |
@@ -15,22 +15,22 @@
 
 ## 📚 기술 스택
 
-### Front-end
+### 🖥️ Front-end
 <p align="center">
     <img src="https://skillicons.dev/icons?theme=light&i=flutter,dart,html,css,tailwind,js,react" />
 </p>
 
-### Back-end
+### 🗄️ Back-end
 <p align="center">
     <img src="https://skillicons.dev/icons?theme=light&i=nodejs,firebase" />
 </p>
 
-### Database
+### 💾 Database
 <p align="center">
     <img src="https://skillicons.dev/icons?theme=light&i=mysql,redis" />
 </p>
 
-### Deployment
+### 🚀 Deployment
 <p align="center">
     <img src="https://skillicons.dev/icons?theme=light&i=aws,docker,nginx,githubactions" />
 </p>
