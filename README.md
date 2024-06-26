@@ -9,6 +9,7 @@
 |분류 | Back-end | Front-end | Back-end | Front-end |
 |역할 | Chat, Friend, FCM | Auth, Matching, Profile, SC | Chat, Friend, FCM, Admin | Auth, Matching, Profile, SC, Nginx, Git action |
 
+
 ## 🏠 시스템 아키텍쳐
 
 <img src="https://github.com/C4-KSCL/SOUL-MBTIE/blob/main/assets/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90.png" />
