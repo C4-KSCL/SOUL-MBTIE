@@ -1,4 +1,4 @@
-# capstone
+# Capstone
 
 ## 팀
 
@@ -9,11 +9,11 @@
 |분류 | Back-end | Front-end | Back-end | Front-end |
 |역할 | Chat, Friend, FCM | Auth, Matching, Profile, SC | Chat, Friend, FCM, Admin | Auth, Matching, Profile, SC, Nginx, Git action |
 
-## 시스템 아키텍쳐
+## 🏠 시스템 아키텍쳐
 
 사진넣어야됨
 
-## 기술 스택
+## 📚 기술 스택
 
 ### Front-end
 <p align="center">
@@ -35,7 +35,7 @@
     <img src="https://skillicons.dev/icons?theme=light&i=aws,docker,nginx,githubactions" />
 </p>
 
-# 서비스
+# 📋 서비스
 
 ## 유저 페이지
 ...
