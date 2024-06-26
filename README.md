@@ -64,7 +64,7 @@
 
 |보낸 요청|친구 차단|친구 관리||
 | :-: | :-: | :-: | :-: |
-|<img src="https://github.com/C4-KSCL/SOUL-MBTIE/blob/main/assets/%EC%B9%9C%EA%B5%AC%ED%8E%98%EC%9D%B4%EC%A7%80/%EC%B9%9C%EA%B5%AC%20%EB%B3%B4%EB%82%B8%20%EC%9A%94%EC%B2%AD%20%ED%8E%98%EC%9D%B4%EC%A7%80.jpg" />|<img src="https://github.com/C4-KSCL/SOUL-MBTIE/blob/main/assets/%EC%B9%9C%EA%B5%AC%ED%8E%98%EC%9D%B4%EC%A7%80/%EC%B9%9C%EA%B5%AC%20%EC%B0%A8%EB%8B%A8%20%ED%8E%98%EC%9D%B4%EC%A7%80.jpg" />|<img src="https://github.com/C4-KSCL/SOUL-MBTIE/blob/main/assets/%EC%B9%9C%EA%B5%AC%ED%8E%98%EC%9D%B4%EC%A7%80/%EC%B9%9C%EA%B5%AC%20%EA%B4%80%EB%A6%AC%20%ED%8E%98%EC%9D%B4%EC%A7%80.jpg" />|<img src="https://github.com/C4-KSCL/SOUL-MBTIE/blob/main/assets/%EB%A7%A4%EC%B9%AD%ED%8E%98%EC%9D%B4%EC%A7%80/%EC%B9%9C%EA%B5%AC%20%ED%82%A4%EC%9B%8C%EB%93%9C%20%EC%9E%AC%EC%84%A4%EC%A0%95%20%ED%8E%98%EC%9D%B4%EC%A7%80.jpg" />|
+|<img src="https://github.com/C4-KSCL/SOUL-MBTIE/blob/main/assets/%EC%B9%9C%EA%B5%AC%ED%8E%98%EC%9D%B4%EC%A7%80/%EC%B9%9C%EA%B5%AC%20%EB%B3%B4%EB%82%B8%20%EC%9A%94%EC%B2%AD%20%ED%8E%98%EC%9D%B4%EC%A7%80.jpg" />|<img src="https://github.com/C4-KSCL/SOUL-MBTIE/blob/main/assets/%EC%B9%9C%EA%B5%AC%ED%8E%98%EC%9D%B4%EC%A7%80/%EC%B9%9C%EA%B5%AC%20%EC%B0%A8%EB%8B%A8%20%ED%8E%98%EC%9D%B4%EC%A7%80.jpg" />|<img src="https://github.com/C4-KSCL/SOUL-MBTIE/blob/main/assets/%EC%B9%9C%EA%B5%AC%ED%8E%98%EC%9D%B4%EC%A7%80/%EC%B9%9C%EA%B5%AC%20%EA%B4%80%EB%A6%AC%20%ED%8E%98%EC%9D%B4%EC%A7%80.jpg" />|<img src="https://github.com/C4-KSCL/SOUL-MBTIE/blob/main/assets/%E1%84%92%E1%85%B4%E1%86%AB%E1%84%89%E1%85%A1%E1%84%8C%E1%85%B5%E1%86%AB.png" />|
 
 ### 채팅 페이지
 |채팅창 리스트|채팅창|이벤트|이벤트 전송|
