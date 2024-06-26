@@ -1,0 +1,8 @@
+node_modules
+uploads
+*.log
+coverage
+.env
+/prisma/migrations
+images/
+fcm_config.json

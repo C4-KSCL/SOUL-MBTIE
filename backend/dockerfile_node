@@ -1,0 +1,21 @@
+FROM node:current-slim
+
+WORKDIR /app
+
+COPY . .
+
+# 환경 변수 설정
+ARG DATABASE_URL
+ENV DATABASE_URL=${DATABASE_URL}
+
+# package.json에 있는 것들을 설치
+RUN apt-get update -y && apt-get install -y openssl
+RUN npm install
+RUN npx prisma generate
+# admin-web 폴더로 이동하여 npm install 후 build 수행
+RUN cd admin-web && npm install && npm run build && cd ..
+#RUN npx prisma migrate deploy
+#8001포트로
+EXPOSE 8000
+
+CMD ["sh", "-c", "npx prisma migrate deploy && npm run dev"]
