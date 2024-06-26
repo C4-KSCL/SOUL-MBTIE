@@ -11,7 +11,7 @@
 
 ## 🏠 시스템 아키텍쳐
 
-사진넣어야됨
+<img src="https://github.com/C4-KSCL/SOUL-MBTIE/blob/main/assets/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90.png" />
 
 ## 📚 기술 스택
 
