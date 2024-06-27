@@ -7,7 +7,7 @@
 |프로필 | ![기범](https://github.com/KibeomGwon.png) | ![준영](https://github.com/sungjungyoung.png) | ![동우](https://github.com/DongWooChoo.png) | ![상현](https://github.com/idealHyun.png) |
 | 기술 스택 |  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a> | <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> |  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a> |  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> |
 |분류 | Back-end | Front-end | Back-end | Front-end |
-|역할 | Chat, Friend, FCM | Auth, Matching, Profile, SC | Chat, Friend, FCM, Admin | Auth, Matching, Profile, SC, Nginx, Git action |
+|역할 | Chat, Friend, FCM | Auth, Matching, Profile, SC | Auth, Matching, Profile, SC, Nginx, Git action | Chat, Friend, FCM, Admin |
 
 
 ## 🏠 시스템 아키텍쳐
@@ -18,7 +18,8 @@
 
 ### 🖥️ Front-end
 <p align="center">
-    <img src="https://skillicons.dev/icons?theme=light&i=flutter,dart,html,css,tailwind,js,react" />
+    <img src="https://skillicons.dev/icons?theme=light&i=flutter,dart,html,css,js,tailwind,react" />
+    
 </p>
 
 ### 🗄️ Back-end
