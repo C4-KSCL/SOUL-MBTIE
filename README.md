@@ -47,7 +47,9 @@ SOUlMBTI는 친구 매칭 플랫폼으로, 많은 사람들이 사용하는 성�
 # 📋 서비스
 
 ## 데모 영상
-...
+<video width=240 height=480 controls>
+  <source src="assets/데모 영상1.mp4" type="video/mp4">
+</video>
 
 ## 유저 페이지
 
@@ -67,7 +69,7 @@ SOUlMBTI는 친구 매칭 플랫폼으로, 많은 사람들이 사용하는 성�
 
 |친구 키워드 설정|재매칭|||
 | :-: | :-: | :-: | :-: |
-|<img src="https://github.com/C4-KSCL/SOUL-MBTIE/blob/main/assets/%EB%A7%A4%EC%B9%AD%ED%8E%98%EC%9D%B4%EC%A7%80/%EC%B9%9C%EA%B5%AC%20%ED%82%A4%EC%9B%8C%EB%93%9C%20%EC%9E%AC%EC%84%A4%EC%A0%95%20%ED%8E%98%EC%9D%B4%EC%A7%80.jpg" />|<img src="https://github.com/C4-KSCL/SOUL-MBTIE/blob/main/assets/%EB%A7%A4%EC%B9%AD%ED%8E%98%EC%9D%B4%EC%A7%80/%EC%9E%AC%EB%A7%A4%EC%B9%AD%20%ED%8E%98%EC%9D%B4%EC%A7%80.jpg" />|<img src="https://github.com/C4-KSCL/SOUL-MBTIE/blob/main/assets/%E1%84%92%E1%85%B4%E1%86%AB%E1%84%89%E1%85%A1%E1%84%8C%E1%85%B5%E1%86%AB.png" />|<img src="https://github.com/C4-KSCL/SOUL-MBTIE/blob/main/assets/%E1%84%92%E1%85%B4%E1%86%AB%E1%84%89%E1%85%A1%E1%84%8C%E1%85%B5%E1%86%AB.png" />|
+|<img src="https://github.com/C4-KSCL/SOUL-MBTIE/blob/main/assets/%EB%A7%A4%EC%B9%AD%ED%8E%98%EC%9D%B4%EC%A7%80/%EC%B9%9C%EA%B5%AC%20%ED%82%A4%EC%9B%8C%EB%93%9C%20%EC%9E%AC%EC%84%A4%EC%A0%95%20%ED%8E%98%EC%9D%B4%EC%A7%80.jpg" />|<img src="https://github.com/C4-KSCL/SOUL-MBTIE/blob/main/assets/%EB%A7%A4%EC%B9%AD%ED%8E%98%EC%9D%B4%EC%A7%80/%EC%9E%AC%EB%A7%A4%EC%B9%AD%20%ED%8E%98%EC%9D%B4%EC%A7%80.jpg" />|<img src="assets\흰사진.png" />|<img src="assets\흰사진.png" />|
 
 ### 친구 페이지
 |친구 리스트|친구 프로필|받은 요청 1|받은 요청 2|
@@ -76,7 +78,7 @@ SOUlMBTI는 친구 매칭 플랫폼으로, 많은 사람들이 사용하는 성�
 
 |보낸 요청|친구 차단|친구 관리||
 | :-: | :-: | :-: | :-: |
-|<img src="https://github.com/C4-KSCL/SOUL-MBTIE/blob/main/assets/%EC%B9%9C%EA%B5%AC%ED%8E%98%EC%9D%B4%EC%A7%80/%EC%B9%9C%EA%B5%AC%20%EB%B3%B4%EB%82%B8%20%EC%9A%94%EC%B2%AD%20%ED%8E%98%EC%9D%B4%EC%A7%80.jpg" />|<img src="https://github.com/C4-KSCL/SOUL-MBTIE/blob/main/assets/%EC%B9%9C%EA%B5%AC%ED%8E%98%EC%9D%B4%EC%A7%80/%EC%B9%9C%EA%B5%AC%20%EC%B0%A8%EB%8B%A8%20%ED%8E%98%EC%9D%B4%EC%A7%80.jpg" />|<img src="https://github.com/C4-KSCL/SOUL-MBTIE/blob/main/assets/%EC%B9%9C%EA%B5%AC%ED%8E%98%EC%9D%B4%EC%A7%80/%EC%B9%9C%EA%B5%AC%20%EA%B4%80%EB%A6%AC%20%ED%8E%98%EC%9D%B4%EC%A7%80.jpg" />|<img src="https://github.com/C4-KSCL/SOUL-MBTIE/blob/main/assets/%E1%84%92%E1%85%B4%E1%86%AB%E1%84%89%E1%85%A1%E1%84%8C%E1%85%B5%E1%86%AB.png" />|
+|<img src="https://github.com/C4-KSCL/SOUL-MBTIE/blob/main/assets/%EC%B9%9C%EA%B5%AC%ED%8E%98%EC%9D%B4%EC%A7%80/%EC%B9%9C%EA%B5%AC%20%EB%B3%B4%EB%82%B8%20%EC%9A%94%EC%B2%AD%20%ED%8E%98%EC%9D%B4%EC%A7%80.jpg" />|<img src="https://github.com/C4-KSCL/SOUL-MBTIE/blob/main/assets/%EC%B9%9C%EA%B5%AC%ED%8E%98%EC%9D%B4%EC%A7%80/%EC%B9%9C%EA%B5%AC%20%EC%B0%A8%EB%8B%A8%20%ED%8E%98%EC%9D%B4%EC%A7%80.jpg" />|<img src="https://github.com/C4-KSCL/SOUL-MBTIE/blob/main/assets/%EC%B9%9C%EA%B5%AC%ED%8E%98%EC%9D%B4%EC%A7%80/%EC%B9%9C%EA%B5%AC%20%EA%B4%80%EB%A6%AC%20%ED%8E%98%EC%9D%B4%EC%A7%80.jpg" />|<img src="assets\흰사진.png" />|
 
 ### 채팅 페이지
 |채팅창 리스트|채팅창|이벤트|이벤트 전송|
