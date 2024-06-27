@@ -1,5 +1,12 @@
 # 📌 Capstone
 
+## 💬 소개
+MBTI와 키워드를 통해 원하는 교내 친구를 만날 수 있는 매칭 어플리케이션
+
+SOUlMBTI는 친구 매칭 플랫폼으로, 많은 사람들이 사용하는 성격유형검사도구인 MBTI를 활용하여 본인이 원하는 친구의 MBTI와 친구가 가졌으면 하는 취미 및 활동을 키워드로 선택할 수 있다.
+
+이를 바탕으로 본인이 생각하는 이상적인 친구와 유사한 친구들이 매칭되도록 하였으며, 본인과 잘 맞는 새로운 친구를 만날 수 있도록 하는 것이 우리의 플랫폼의 목적이다. 
+
 ## 👨‍👩‍👧‍👦 팀
 
 |이름 | [권기범](https://github.com/KibeomGwon)| [성준영](https://github.com/sungjungyoung) | [추동우](https://github.com/DongWooChoo) | [이상현](https://github.com/idealHyun) |
@@ -38,6 +45,9 @@
 </p>
 
 # 📋 서비스
+
+## 데모 영상
+...
 
 ## 유저 페이지
 
@@ -85,7 +95,7 @@
 ## 관리자 페이지
 |로그인|고객센터|
 | :-: | :-: |
-|<img src="https://github.com/C4-KSCL/SOUL-MBTIE/blob/main/assets/%EA%B4%80%EB%A6%AC%EC%9E%90%20%ED%8E%98%EC%9D%B4%EC%A7%80/%EA%B4%80%EB%A6%AC%EC%9E%90%20%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%ED%8E%98%EC%9D%B4%EC%A7%80.png" />|<img src="https://github.com/C4-KSCL/SOUL-MBTIE/blob/main/assets/%EA%B4%80%EB%A6%AC%EC%9E%90%20%ED%8E%98%EC%9D%B4%EC%A7%80/%EA%B4%80%EB%A6%AC%EC%9E%90%20%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%ED%8E%98%EC%9D%B4%EC%A7%80.png" />|
+|<img src="https://github.com/C4-KSCL/SOUL-MBTIE/blob/main/assets/%EA%B4%80%EB%A6%AC%EC%9E%90%20%ED%8E%98%EC%9D%B4%EC%A7%80/%EA%B4%80%EB%A6%AC%EC%9E%90%20%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%ED%8E%98%EC%9D%B4%EC%A7%80.png" />|<img src="https://github.com/C4-KSCL/SOUL-MBTIE/blob/main/assets/%EA%B4%80%EB%A6%AC%EC%9E%90%20%ED%8E%98%EC%9D%B4%EC%A7%80/%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B3%A0%EA%B0%9D%EC%84%BC%ED%84%B0%20%ED%8E%98%EC%9D%B4%EC%A7%80.png" />|
 
 |상세페이지|회원관리|
 | :-: | :-: |
