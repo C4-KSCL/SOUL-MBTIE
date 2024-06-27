@@ -47,10 +47,7 @@ SOUlMBTI는 친구 매칭 플랫폼으로, 많은 사람들이 사용하는 성�
 # 📋 서비스
 
 ## 데모 영상
-<video width="240" height="480" controls>
-  <source src="https://github.com/C4-KSCL/SOUL-MBTIE/raw/main/assets/데모%20영상1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<iframe width="240" height="480" src="https://www.youtube.com/embed/d24USN3a2-8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 유저 페이지
 
