@@ -48,7 +48,7 @@ SOUlMBTI는 친구 매칭 플랫폼으로, 많은 사람들이 사용하는 성�
 
 ## 데모 영상
 <video width=240 height=480 controls>
-  <source src="assets/데모 영상1.mp4" type="video/mp4">
+  <source src="assets\데모 영상1.mp4" type="video/mp4">
 </video>
 
 ## 유저 페이지
